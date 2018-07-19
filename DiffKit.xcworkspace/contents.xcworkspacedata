@@ -5,6 +5,10 @@
       location = "group:DiffKit.xcodeproj">
    </FileRef>
    <FileRef
+      location = "group:DiffKit.podspec"
+      assignedFileDataType = "public.ruby-script">
+   </FileRef>
+   <FileRef
       location = "group:Pods/Pods.xcodeproj">
    </FileRef>
 </Workspace>
