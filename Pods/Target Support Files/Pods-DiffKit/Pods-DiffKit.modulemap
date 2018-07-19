@@ -1,0 +1,6 @@
+framework module Pods_DiffKit {
+  umbrella header "Pods-DiffKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
